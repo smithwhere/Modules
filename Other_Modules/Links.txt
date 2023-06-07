@@ -1,0 +1,2 @@
+去除YouTube广告
+https://raw.githubusercontent.com/Maasea/sgmodule/master/YoutubeAds.sgmodule
