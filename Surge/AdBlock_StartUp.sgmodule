@@ -1,5 +1,5 @@
-#!name=Remove_ADs
-#!desc=AdBlock_StartUp
+#!name=AdBlock_StartUp
+#!desc=去除开屏广告
 
 // ==UserScript==
 // @ScriptName        墨鱼去开屏V2.0
