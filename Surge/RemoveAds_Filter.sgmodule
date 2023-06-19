@@ -315,7 +315,7 @@ DOMAIN,ad.chelaile.net.cn,REJECT
 DOMAIN-KEYWORD,image.bianxianmao.com,REJECT
 # > 滴滴青桔（支付界面图片有误杀）
 # > DOMAIN-KEYWORD,pt-starimg.didistatic.com,REJECT
-ip-cidr,203.107.1.1/24,REJECT
+IP-CIDR,203.107.1.1/24,REJECT
 # > 懂车帝
 DOMAIN-KEYWORD,p3-pack.byteimg.com,REJECT
 DOMAIN-KEYWORD,p6-pack.byteimg.com,REJECT
