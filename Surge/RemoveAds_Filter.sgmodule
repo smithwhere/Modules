@@ -254,7 +254,7 @@ DOMAIN,hmma.baidu.com,REJECT
 IP-CIDR,180.76.76.200/32,REJECT
 # > 哔哩哔哩
 DOMAIN-SUFFIX,cm.bilibili.com,REJECT
-DOMAIN-keyword,api.sobot.com,REJECT
+DOMAIN-KEYWORD,api.sobot.com,REJECT
 DOMAIN-SUFFIX,cm.ad.bilibili.com,REJECT
 DOMAIN-SUFFIX,cm.adcommon.bilibili.com,REJECT
 DOMAIN-SUFFIX,cm.game.bilibili.com,REJECT
@@ -312,19 +312,19 @@ DOMAIN,ad.chelaile.net.cn,REJECT
 
 # >>>>>>>>>>>>>>> ✅ D ✅ <<<<<<<<<<<<<<
 # > 叮嗒出行
-DOMAIN-keyword,image.bianxianmao.com,REJECT
+DOMAIN-KEYWORD,image.bianxianmao.com,REJECT
 # > 滴滴青桔（支付界面图片有误杀）
-# > DOMAIN-keyword,pt-starimg.didistatic.com,REJECT
+# > DOMAIN-KEYWORD,pt-starimg.didistatic.com,REJECT
 ip-cidr,203.107.1.1/24,REJECT
 # > 懂车帝
-DOMAIN-keyword,p3-pack.byteimg.com,REJECT
-DOMAIN-keyword,p6-pack.byteimg.com,REJECT
+DOMAIN-KEYWORD,p3-pack.byteimg.com,REJECT
+DOMAIN-KEYWORD,p6-pack.byteimg.com,REJECT
 # > 懂球帝
-DOMAIN-keyword,apimg.qunliao.info,REJECT
+DOMAIN-KEYWORD,apimg.qunliao.info,REJECT
 # > 抖音
-DOMAIN-keyword,bds.snssdk.com,REJECT
-DOMAIN-keyword,p6-ad-sign.byteimg.com,REJECT
-DOMAIN-keyword,p3.pstatp.com,REJECT
+DOMAIN-KEYWORD,bds.snssdk.com,REJECT
+DOMAIN-KEYWORD,p6-ad-sign.byteimg.com,REJECT
+DOMAIN-KEYWORD,p3.pstatp.com,REJECT
 # > 多多视频
 DOMAIN-SUFFIX,bayescom.com,REJECT
 # > Daum
@@ -357,7 +357,7 @@ DOMAIN-SUFFIX,gz-data.com,REJECT
 # > GrowingIO
 DOMAIN-SUFFIX,giocdn.com,REJECT
 # > 光大银行阳光惠生活
-DOMAIN-keyword,talk.bz.getui.com,REJECT
+DOMAIN-KEYWORD,talk.bz.getui.com,REJECT
 # > 谷歌
 DOMAIN-SUFFIX,google-analytics.com,REJECT
 DOMAIN,safebrowsing.googleapis.com,REJECT
@@ -420,7 +420,7 @@ DOMAIN,huyafile.msstatic.com,REJECT
 DOMAIN,livewebbs2.msstatic.com,REJECT
 DOMAIN,business.msstatic.com,REJECT
 # > 哈啰
-DOMAIN-keyword,assets.51downapp.cn,REJECT
+DOMAIN-KEYWORD,assets.51downapp.cn,REJECT
 # > 黄油相机 #开屏广告 感谢#Dragon分享
 DOMAIN-SUFFIX,anythinktech.com,REJECT
 DOMAIN-SUFFIX,adkwai.com,REJECT
@@ -444,32 +444,32 @@ DOMAIN,ups.ksmobile.net,REJECT
 DOMAIN,ws.ksmobile.net,REJECT
 # > 今日头条
 DOMAIN,dm.toutiao.com,REJECT
-DOMAIN-keyword,ad.toutiao.com,REJECT
-DOMAIN-keyword,clk.gentags.net,REJECT
-DOMAIN-keyword,dm.toutiao.com,REJECT
-DOMAIN-keyword,dm.pstatp.com,REJECT
-DOMAIN-keyword,dm.bytedance.com,REJECT
-DOMAIN-keyword,uop.umeng.com,REJECT
-DOMAIN-keyword,policy.jd.com,REJECT
-DOMAIN-keyword,kepler.jd.com,REJECT
-DOMAIN-keyword,bdsp.x.jd.com,REJECT
-DOMAIN-keyword,keplerapi.jd.com,REJECT
-DOMAIN-keyword,m.suning.com,REJECT
-DOMAIN-keyword,adshare.toutiao.com,REJECT
-DOMAIN-keyword,tunion-api.m.taobao.com,REJECT
-DOMAIN-keyword,mapi.m.jd.com,REJECT
-DOMAIN-keyword,s1.pstatp.com,REJECT
-DOMAIN-keyword,s2.pstatp.com,REJECT
-DOMAIN-keyword,s3.pstatp.com,REJECT
-DOMAIN-keyword,a3.pstatp.com,REJECT
-DOMAIN-keyword,a3.bytecdn.cn,REJECT
-# DOMAIN-keyword,ichannel.snssdk.com,REJECT
+DOMAIN-KEYWORD,ad.toutiao.com,REJECT
+DOMAIN-KEYWORD,clk.gentags.net,REJECT
+DOMAIN-KEYWORD,dm.toutiao.com,REJECT
+DOMAIN-KEYWORD,dm.pstatp.com,REJECT
+DOMAIN-KEYWORD,dm.bytedance.com,REJECT
+DOMAIN-KEYWORD,uop.umeng.com,REJECT
+DOMAIN-KEYWORD,policy.jd.com,REJECT
+DOMAIN-KEYWORD,kepler.jd.com,REJECT
+DOMAIN-KEYWORD,bdsp.x.jd.com,REJECT
+DOMAIN-KEYWORD,keplerapi.jd.com,REJECT
+DOMAIN-KEYWORD,m.suning.com,REJECT
+DOMAIN-KEYWORD,adshare.toutiao.com,REJECT
+DOMAIN-KEYWORD,tunion-api.m.taobao.com,REJECT
+DOMAIN-KEYWORD,mapi.m.jd.com,REJECT
+DOMAIN-KEYWORD,s1.pstatp.com,REJECT
+DOMAIN-KEYWORD,s2.pstatp.com,REJECT
+DOMAIN-KEYWORD,s3.pstatp.com,REJECT
+DOMAIN-KEYWORD,a3.pstatp.com,REJECT
+DOMAIN-KEYWORD,a3.bytecdn.cn,REJECT
+# DOMAIN-KEYWORD,ichannel.snssdk.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao.com,REJECT
 DOMAIN-SUFFIX,pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN-SUFFIX,api-access.pangolin-sdk-toutiao-b.com,REJECT
 DOMAIN,ad.toutiao.com,REJECT
 DOMAIN,dsp.toutiao.com,REJECT
-DOMAIN-keyword,pangolin.snssdk.com,REJECT
+DOMAIN-KEYWORD,pangolin.snssdk.com,REJECT
 # > 屏蔽京东和搜狗收集信息 @jFrecht
 DOMAIN-SUFFIX,jdqd.jd.com,REJECT
 DOMAIN-SUFFIX,shouji.sougou.com,REJECT
@@ -496,23 +496,23 @@ DOMAIN-SUFFIX,cm.downloader.commercial.kuaishou.com,REJECT
 DOMAIN-SUFFIX,cm.ad.gifshow.com,REJECT
 DOMAIN-SUFFIX,cm.kwad.com,REJECT
 # > 酷狗音乐
-DOMAIN-keyword,searchrecommend.kugou.com,REJECT
-DOMAIN-keyword,nbcollectretry.kugou.com,REJECT
-DOMAIN-keyword,rtmretry.kugou.com,REJECT
-DOMAIN-keyword,rt-m.kugou.com,REJECT
-DOMAIN-keyword,nbcollect.kugou.com,REJECT
-DOMAIN-keyword,c1img.ali.kugou.com,REJECT
-DOMAIN-keyword,kgstaticdlbssdlbig.tx.kugou.com,REJECT
-DOMAIN-keyword,adsfilebssdlbig.ali.kugou.com,REJECT
-DOMAIN-keyword,splashimgbssdl.yun.kugou.com,REJECT
+DOMAIN-KEYWORD,searchrecommend.kugou.com,REJECT
+DOMAIN-KEYWORD,nbcollectretry.kugou.com,REJECT
+DOMAIN-KEYWORD,rtmretry.kugou.com,REJECT
+DOMAIN-KEYWORD,rt-m.kugou.com,REJECT
+DOMAIN-KEYWORD,nbcollect.kugou.com,REJECT
+DOMAIN-KEYWORD,c1img.ali.kugou.com,REJECT
+DOMAIN-KEYWORD,kgstaticdlbssdlbig.tx.kugou.com,REJECT
+DOMAIN-KEYWORD,adsfilebssdlbig.ali.kugou.com,REJECT
+DOMAIN-KEYWORD,splashimgbssdl.yun.kugou.com,REJECT
 DOMAIN-KEYWORD,adservice.kugou.com,REJECT
 DOMAIN-KEYWORD,kgipadstat.kugou.com,REJECT
 DOMAIN-KEYWORD,kgipadstatbak.kugou.com,REJECT
 DOMAIN-KEYWORD,logwebs.kugou.com,REJECT
 DOMAIN-KEYWORD,tracker.kugou.com,REJECT
 DOMAIN-KEYWORD,trackercdnbj.kugou.com,REJECT
-DOMAIN-keyword,rich.kuwo.cn,REJECT
-DOMAIN-keyword,mobilead.kuwo.cn,REJECT
+DOMAIN-KEYWORD,rich.kuwo.cn,REJECT
+DOMAIN-KEYWORD,mobilead.kuwo.cn,REJECT
 DOMAIN,adsfile.bssdlbig.kugou.com,REJECT
 DOMAIN-SUFFIX,oth.eve.mdt.qq.com,REJECT
 DOMAIN,pgdt.gtimg.cn,REJECT
@@ -562,7 +562,7 @@ DOMAIN-SUFFIX,webstat.kuwo.cn,REJECT
 DOMAIN-SUFFIX,mobilead.kuwo.cn,REJECT
 DOMAIN-SUFFIX,rich.kuwo.cn,REJECT
 # > 酷安
-# > DOMAIN-keyword,p6-be-pack-sign.pglstatp-toutiao.com,REJECT
+# > DOMAIN-KEYWORD,p6-be-pack-sign.pglstatp-toutiao.com,REJECT
 
 
 
@@ -578,7 +578,7 @@ DOMAIN,a.wkanx.com,REJECT
 DOMAIN,cwx.lianwangtech.com,REJECT
 DOMAIN,c1wx.lianwangtech.com,REJECT
 # > 蓝基因（弹窗还在，需要手动关闭）
-DOMAIN-keyword,medicine.lanjiyin.com.cn,REJECT
+DOMAIN-KEYWORD,medicine.lanjiyin.com.cn,REJECT
 # > 两步路
 DOMAIN-SUFFIX,admobile.top,REJECT
 
@@ -597,21 +597,21 @@ DOMAIN-SUFFIX,wmlog.meituan.com,REJECT
 DOMAIN,adui.tg.meitu.com,REJECT
 DOMAIN,aaid.uyunad.com,REJECT
 # > 买单吧
-DOMAIN-keyword,c-hzgt2.getui.com,REJECT
+DOMAIN-KEYWORD,c-hzgt2.getui.com,REJECT
 # > 民生银行
-DOMAIN-keyword,cm-10-134.getui.com,REJECT
-DOMAIN-keyword,sdk.open.talk.getui.com,REJECT
-DOMAIN-keyword,cm-10-35.getui.com,REJECT
-DOMAIN-keyword,c-hzgt2.getui.com,REJECT
+DOMAIN-KEYWORD,cm-10-134.getui.com,REJECT
+DOMAIN-KEYWORD,sdk.open.talk.getui.com,REJECT
+DOMAIN-KEYWORD,cm-10-35.getui.com,REJECT
+DOMAIN-KEYWORD,c-hzgt2.getui.com,REJECT
 DOMAIN-SUFFIX,sdk.open.talk.igexin.com,REJECT
 # > 墨迹天气
-DOMAIN-keyword,fds.api.moji.com,REJECT
-DOMAIN-keyword,me.api.moji.com,REJECT
-DOMAIN-keyword,android.bugly.qq.com,REJECT
-DOMAIN-keyword,av1.xdrig.com,REJECT
-DOMAIN-keyword,adash.man.aliyuncs.com,REJECT
-DOMAIN-keyword,v1.log.moji.com,REJECT
-DOMAIN-keyword,ad.api.moji.com,REJECT
+DOMAIN-KEYWORD,fds.api.moji.com,REJECT
+DOMAIN-KEYWORD,me.api.moji.com,REJECT
+DOMAIN-KEYWORD,android.bugly.qq.com,REJECT
+DOMAIN-KEYWORD,av1.xdrig.com,REJECT
+DOMAIN-KEYWORD,adash.man.aliyuncs.com,REJECT
+DOMAIN-KEYWORD,v1.log.moji.com,REJECT
+DOMAIN-KEYWORD,ad.api.moji.com,REJECT
 DOMAIN,ad.api.moji.com,REJECT
 DOMAIN,adlaunch.moji.com,REJECT
 DOMAIN,ads.mojicdn.com,REJECT
@@ -667,20 +667,20 @@ DOMAIN,imgad0.pcauto.com.cn,REJECT
 DOMAIN,imgad0.pconline.com.cn,REJECT
 DOMAIN,ivy.pchouse.com.cn,REJECT
 # > 皮皮虾（推荐视频不能预览）
-DOMAIN-keyword,log-api.pangolin-sdk-toutiao-b.com,REJECT
-DOMAIN-keyword,log-api.pangolin-sdk-toutiao.com,REJECT
-DOMAIN-keyword,api-access.pangolin-sdk-toutiao.com,REJECT
+DOMAIN-KEYWORD,log-api.pangolin-sdk-toutiao-b.com,REJECT
+DOMAIN-KEYWORD,log-api.pangolin-sdk-toutiao.com,REJECT
+DOMAIN-KEYWORD,api-access.pangolin-sdk-toutiao.com,REJECT
 # > 皮皮虾（比较激进，需要的自己开启）
-# > DOMAIN-keyword,snssdk.com,REJECT
-# > DOMAIN-keyword,mssdk.bytedance.com,REJECT
-# > DOMAIN-keyword,api.ribaoapi.com,REJECT
-# > DOMAIN-keyword,apps.bytesfield.com,REJECT
-# > DOMAIN-keyword,bytesmanager.com,REJECT
-# > DOMAIN-keyword,pglstatp-toutiao.com,REJECT
-# > DOMAIN-keyword,mssdk-bu.bytedance.com,REJECT
-# > DOMAIN-keyword,365yg.com,REJECT
-# > DOMAIN-keyword,ppx.byteimg.com,REJECT
-# > DOMAIN-keyword,i.snssdk.com,REJECT,REJECT
+# > DOMAIN-KEYWORD,snssdk.com,REJECT
+# > DOMAIN-KEYWORD,mssdk.bytedance.com,REJECT
+# > DOMAIN-KEYWORD,api.ribaoapi.com,REJECT
+# > DOMAIN-KEYWORD,apps.bytesfield.com,REJECT
+# > DOMAIN-KEYWORD,bytesmanager.com,REJECT
+# > DOMAIN-KEYWORD,pglstatp-toutiao.com,REJECT
+# > DOMAIN-KEYWORD,mssdk-bu.bytedance.com,REJECT
+# > DOMAIN-KEYWORD,365yg.com,REJECT
+# > DOMAIN-KEYWORD,ppx.byteimg.com,REJECT
+# > DOMAIN-KEYWORD,i.snssdk.com,REJECT,REJECT
 # > 影响端传媒正常运行，默认关闭
 # > DOMAIN-SUFFIX,cloudfront.net,REJECT
 
@@ -693,11 +693,11 @@ DOMAIN,ad.qingting.fm,REJECT
 DOMAIN,adlaunch.qingting.fm,REJECT
 DOMAIN,ad-cdn.qingting.fm,REJECT
 # > 汽车之家
-DOMAIN-keyword,adm3.autoimg.cn,REJECT
-DOMAIN-keyword,audid-api.taobao.com,REJECT
-DOMAIN-keyword,collectionpv.che168.com,REJECT
-DOMAIN-keyword,adproxy.autohome.com,REJECT
-DOMAIN-keyword,applogapi.autohome.com,REJECT
+DOMAIN-KEYWORD,adm3.autoimg.cn,REJECT
+DOMAIN-KEYWORD,audid-api.taobao.com,REJECT
+DOMAIN-KEYWORD,collectionpv.che168.com,REJECT
+DOMAIN-KEYWORD,adproxy.autohome.com,REJECT
+DOMAIN-KEYWORD,applogapi.autohome.com,REJECT
 DOMAIN,adproxy.autohome.com.cn,REJECT
 DOMAIN,rd.autohome.com.cn,REJECT
 DOMAIN,al.autohome.com.cn,REJECT
@@ -755,7 +755,7 @@ DOMAIN-SUFFIX,bite.theta.sogoucdn.com,REJECT
 DOMAIN-SUFFIX,brand.sogou.com,REJECT
 DOMAIN-SUFFIX,bsiet.husky.sogou.com,REJECT
 # > 搜狗输入法
-;DOMAIN-keyword,business-cdn.shouji.sogou.com,REJECT
+;DOMAIN-KEYWORD,business-cdn.shouji.sogou.com,REJECT
 # > 深圳通微信小程序
 DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com,REJECT
 
@@ -929,8 +929,8 @@ DOMAIN-SUFFIX,api.poll.video.qq.com,REJECT
 DOMAIN-SUFFIX,static-res.qq.com,REJECT
 DOMAIN-SUFFIX,stat.tpns.tencent.com,REJECT
 DOMAIN,h.trace.qq.com,REJECT
-DOMAIN-keyword,omgmta.qq.com,REJECT
-DOMAIN-keyword,omgmta1.qq.com,REJECT
+DOMAIN-KEYWORD,omgmta.qq.com,REJECT
+DOMAIN-KEYWORD,omgmta1.qq.com,REJECT
 # > 腾讯音乐
 DOMAIN,adserviceretry.kugou.com,REJECT
 DOMAIN,ads.service.kugou.com,REJECT
@@ -948,48 +948,48 @@ DOMAIN,stat.10jqka.com.cn,REJECT
 DOMAIN,adsp.xunlei.com,REJECT
 DOMAIN,etl.xlmc.sandai.net,REJECT
 # > 团油
-DOMAIN-keyword,img1.czb365.com,REJECT
+DOMAIN-KEYWORD,img1.czb365.com,REJECT
 
 
 
 # >>>>>>>>>>>>>>> ✅ U ✅ <<<<<<<<<<<<<<
 # > UC浏览器
-DOMAIN-keyword,m.atm.youku.com,REJECT
-DOMAIN-keyword,adp.atm.youku.com,REJECT
-DOMAIN-keyword,clickc.admaster.com,REJECT
-DOMAIN-keyword,count.atm.youku.com,REJECT
-DOMAIN-keyword,ems.youku.com,REJECT
-DOMAIN-keyword,fans.m.tmall.com,REJECT
-DOMAIN-keyword,ktd.m.cn.miaozhen.com,REJECT
-DOMAIN-keyword,r1.ykimg.com,REJECT
-DOMAIN-keyword,v.admaster.com,REJECT
-DOMAIN-keyword,v2.reachmax.cn,REJECT
-DOMAIN-keyword,val.atm.youku.com,REJECT
-DOMAIN-keyword,yktd.m.cn.miaozhen.com,REJECT
-DOMAIN-keyword,server.m.pp.cn,REJECT
-DOMAIN-keyword,puds.ucweb.com,REJECT
-DOMAIN-keyword,wgo.mmstat.com,REJECT
-DOMAIN-keyword,log.cs.pp.cn,REJECT
-DOMAIN-keyword,applog.uc.cn,REJECT
-DOMAIN-keyword,afpapi.alimama.com,REJECT
-DOMAIN-keyword,a.9game.cn,REJECT
-DOMAIN-keyword,track.uc.cn,REJECT
-DOMAIN-keyword,adtrack.ucweb.com,REJECT
-DOMAIN-keyword,utp-dmp.ucweb.com,REJECT
-DOMAIN-keyword,utp.ucweb.com,REJECT
-DOMAIN-keyword,huichuan.sm.cn,REJECT
-DOMAIN-keyword,ynuf.alipay.com,REJECT
-DOMAIN-keyword,pdds.ucweb.com,REJECT
-DOMAIN-keyword,js.union-wifi.com,REJECT
-DOMAIN-keyword,www.qmlog.cn,REJECT
-DOMAIN-keyword,cpu.baidu.com,REJECT
-DOMAIN-keyword,caclick.baidu.com,REJECT
-DOMAIN-keyword,rescn.u3.ucweb.com,REJECT
+DOMAIN-KEYWORD,m.atm.youku.com,REJECT
+DOMAIN-KEYWORD,adp.atm.youku.com,REJECT
+DOMAIN-KEYWORD,clickc.admaster.com,REJECT
+DOMAIN-KEYWORD,count.atm.youku.com,REJECT
+DOMAIN-KEYWORD,ems.youku.com,REJECT
+DOMAIN-KEYWORD,fans.m.tmall.com,REJECT
+DOMAIN-KEYWORD,ktd.m.cn.miaozhen.com,REJECT
+DOMAIN-KEYWORD,r1.ykimg.com,REJECT
+DOMAIN-KEYWORD,v.admaster.com,REJECT
+DOMAIN-KEYWORD,v2.reachmax.cn,REJECT
+DOMAIN-KEYWORD,val.atm.youku.com,REJECT
+DOMAIN-KEYWORD,yktd.m.cn.miaozhen.com,REJECT
+DOMAIN-KEYWORD,server.m.pp.cn,REJECT
+DOMAIN-KEYWORD,puds.ucweb.com,REJECT
+DOMAIN-KEYWORD,wgo.mmstat.com,REJECT
+DOMAIN-KEYWORD,log.cs.pp.cn,REJECT
+DOMAIN-KEYWORD,applog.uc.cn,REJECT
+DOMAIN-KEYWORD,afpapi.alimama.com,REJECT
+DOMAIN-KEYWORD,a.9game.cn,REJECT
+DOMAIN-KEYWORD,track.uc.cn,REJECT
+DOMAIN-KEYWORD,adtrack.ucweb.com,REJECT
+DOMAIN-KEYWORD,utp-dmp.ucweb.com,REJECT
+DOMAIN-KEYWORD,utp.ucweb.com,REJECT
+DOMAIN-KEYWORD,huichuan.sm.cn,REJECT
+DOMAIN-KEYWORD,ynuf.alipay.com,REJECT
+DOMAIN-KEYWORD,pdds.ucweb.com,REJECT
+DOMAIN-KEYWORD,js.union-wifi.com,REJECT
+DOMAIN-KEYWORD,www.qmlog.cn,REJECT
+DOMAIN-KEYWORD,cpu.baidu.com,REJECT
+DOMAIN-KEYWORD,caclick.baidu.com,REJECT
+DOMAIN-KEYWORD,rescn.u3.ucweb.com,REJECT
 DOMAIN,safe.ucweb.com,REJECT
 DOMAIN,px.ucweb.com,REJECT
-DOMAIN-keyword,editor.sm.cn,REJECT
-DOMAIN-keyword,fc-video.cdn.bcebos.com,REJECT
-DOMAIN-keyword,vs10.bj2ct.u3.ucweb.com,REJECT
+DOMAIN-KEYWORD,editor.sm.cn,REJECT
+DOMAIN-KEYWORD,fc-video.cdn.bcebos.com,REJECT
+DOMAIN-KEYWORD,vs10.bj2ct.u3.ucweb.com,REJECT
 DOMAIN,navigis.uc.cn,REJECT
 DOMAIN,restapi.amap.com,REJECT
 DOMAIN,order.sm.cn,REJECT
@@ -1090,7 +1090,7 @@ DOMAIN,vcardsdkservice.vivo.com.cn,REJECT
 DOMAIN-KEYWORD,stsdk.vivo.com.cn,REJECT
 DOMAIN-KEYWORD,stsdk.vivoglobal.com,REJECT
 # > VIVO商城
-DOMAIN-keyword,paradisestatic.vivo.com.cn,REJECT
+DOMAIN-KEYWORD,paradisestatic.vivo.com.cn,REJECT
 
 
 
@@ -1176,7 +1176,7 @@ DOMAIN,nex.163.com,REJECT
 DOMAIN,yt-adp.nosdn.127.net,REJECT
 DOMAIN,yt-adp.ws.126.net,REJECT
 # > 网易云
-DOMAIN-keyword,ossgw.alicdn.com,REJECT
+DOMAIN-KEYWORD,ossgw.alicdn.com,REJECT
 # > 微软
 DOMAIN-SUFFIX,ads.msn.com,REJECT
 DOMAIN-SUFFIX,ads1.msn.com,REJECT
@@ -1185,45 +1185,45 @@ DOMAIN-SUFFIX,bingads.microsoft.com,REJECT
 DOMAIN-SUFFIX,rads.msn.com,REJECT
 DOMAIN,mobileads.msn.com,REJECT
 # > WiFi万能钥匙
-DOMAIN-keyword,app.51y5.net,REJECT
-DOMAIN-keyword,apiinit.amap.com,REJECT
-DOMAIN-keyword,c.51y5.net,REJECT
-DOMAIN-keyword,msg.push.51y5.net,REJECT
-DOMAIN-keyword,a.wkanx.com,REJECT
-DOMAIN-keyword,c.wkanx.com,REJECT
-DOMAIN-keyword,c1.wkanx.com,REJECT
-DOMAIN-keyword,ap.51y5.net,REJECT
-DOMAIN-keyword,dc.51y5.net,REJECT
-DOMAIN-keyword,push-dc.51y5.net,REJECT
-DOMAIN-keyword,news-log.51y5.net,REJECT
-DOMAIN-keyword,login.push.51y5.net,REJECT
-DOMAIN-keyword,news.51y5.net,REJECT
-DOMAIN-keyword,cds.51y5.net,REJECT
-DOMAIN-keyword,insurance.lianwifi.com,REJECT
-DOMAIN-keyword,config.51y5.net,REJECT
-DOMAIN-keyword,static.wkanx.com,REJECT
-DOMAIN-keyword,config.y5en.com,REJECT
+DOMAIN-KEYWORD,app.51y5.net,REJECT
+DOMAIN-KEYWORD,apiinit.amap.com,REJECT
+DOMAIN-KEYWORD,c.51y5.net,REJECT
+DOMAIN-KEYWORD,msg.push.51y5.net,REJECT
+DOMAIN-KEYWORD,a.wkanx.com,REJECT
+DOMAIN-KEYWORD,c.wkanx.com,REJECT
+DOMAIN-KEYWORD,c1.wkanx.com,REJECT
+DOMAIN-KEYWORD,ap.51y5.net,REJECT
+DOMAIN-KEYWORD,dc.51y5.net,REJECT
+DOMAIN-KEYWORD,push-dc.51y5.net,REJECT
+DOMAIN-KEYWORD,news-log.51y5.net,REJECT
+DOMAIN-KEYWORD,login.push.51y5.net,REJECT
+DOMAIN-KEYWORD,news.51y5.net,REJECT
+DOMAIN-KEYWORD,cds.51y5.net,REJECT
+DOMAIN-KEYWORD,insurance.lianwifi.com,REJECT
+DOMAIN-KEYWORD,config.51y5.net,REJECT
+DOMAIN-KEYWORD,static.wkanx.com,REJECT
+DOMAIN-KEYWORD,config.y5en.com,REJECT
 # > 威锋
-DOMAIN-keyword,p3-be-pack-sign.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,sf3-be-pack.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,sf1-be-pack.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,sf1-fe-tos.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,sf1-ttcdn-tos.pstatp.com,REJECT
-DOMAIN-keyword,sf3-fe-tos.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,sf3-ttcdn-tos.pstatp.com,REJECT
-DOMAIN-keyword,sf6-fe-tos.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,s3-fe-scm.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,sf6-be-pack.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,p9-be-pack-sign.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,p3-be-pack-sign.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,sf3-be-pack.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,sf1-be-pack.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,sf1-fe-tos.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,sf1-ttcdn-tos.pstatp.com,REJECT
+DOMAIN-KEYWORD,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,sf3-ttcdn-tos.pstatp.com,REJECT
+DOMAIN-KEYWORD,sf6-fe-tos.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,s3-fe-scm.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,sf6-be-pack.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,p9-be-pack-sign.pglstatp-toutiao.com,REJECT
 
 
 
 # >>>>>>>>>>>>>>> ✅ X ✅ <<<<<<<<<<<<<<
 # > 讯飞输入法
-DOMAIN-keyword,ossp.voicecloud.cn,REJECT
-DOMAIN-keyword,bj.imp.voiceads.cn,REJECT
-DOMAIN-keyword,m.panda.voiceads.cn,REJECT
-DOMAIN-keyword,iflyad.bj.openstorage.cn,REJECT
+DOMAIN-KEYWORD,ossp.voicecloud.cn,REJECT
+DOMAIN-KEYWORD,bj.imp.voiceads.cn,REJECT
+DOMAIN-KEYWORD,m.panda.voiceads.cn,REJECT
+DOMAIN-KEYWORD,iflyad.bj.openstorage.cn,REJECT
 # > 喜马拉雅
 DOMAIN,adbehavior.ximalaya.com,REJECT
 DOMAIN,adwbs.ximalaya.com,REJECT
@@ -1251,7 +1251,7 @@ DOMAIN,tracking.intl.miui.com,REJECT
 # > 小小影视
 DOMAIN,39d83s.com,REJECT
 # > 小利生活
-DOMAIN-keyword,mpos-pic.helipay.com,REJECT
+DOMAIN-KEYWORD,mpos-pic.helipay.com,REJECT
 # > 新浪
 DOMAIN-SUFFIX,beacon.sina.com.cn,REJECT
 DOMAIN,u1.img.mobile.sina.cn,REJECT
@@ -1259,7 +1259,7 @@ DOMAIN,sax.sina.com.cn,REJECT
 DOMAIN,saxs.sina.com.cn,REJECT
 DOMAIN,saxn.sina.com.cn,REJECT
 # > 雪球（可以去掉倒计时，但是误杀很多图片，默认关闭）
-# > DOMAIN-keyword,xqimg.imedao.com,REJECT
+# > DOMAIN-KEYWORD,xqimg.imedao.com,REJECT
 # > 向日葵 见重写
 
 
@@ -1351,8 +1351,8 @@ DOMAIN-SUFFIX,mdrecv.app.cntvwb.cn,REJECT
 DOMAIN-SUFFIX,sdapprecv.app.cntvwb.cn,REJECT
 DOMAIN-SUFFIX,vdapprecv.app.cntvwb.cn,REJECT
 # > 一刻相册
-DOMAIN-keyword,sf1-be-tos.pglstatp-toutiao.com,REJECT
-DOMAIN-keyword,sf3-fe-tos.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,sf1-be-tos.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,sf3-fe-tos.pglstatp-toutiao.com,REJECT
 
 
 
@@ -1384,14 +1384,14 @@ DOMAIN-SUFFIX,im64.jpush.cn,REJECT
 DOMAIN-SUFFIX,im.jpush.cn,REJECT
 DOMAIN-SUFFIX,jpush.html5.qq.com,REJECT
 # > 中华万年历广告
-DOMAIN-keyword,lkme.cc,REJECT
-DOMAIN-keyword,api.freed.so,REJECT
-DOMAIN-keyword,log-dmp.suishenyun.cn,REJECT
-DOMAIN-keyword,client-dmp.suishenyun.cn,REJECT
-DOMAIN-keyword,pc.suishenyun.net,REJECT
-DOMAIN-keyword,v0-client-lz.rili.cn,REJECT
+DOMAIN-KEYWORD,lkme.cc,REJECT
+DOMAIN-KEYWORD,api.freed.so,REJECT
+DOMAIN-KEYWORD,log-dmp.suishenyun.cn,REJECT
+DOMAIN-KEYWORD,client-dmp.suishenyun.cn,REJECT
+DOMAIN-KEYWORD,pc.suishenyun.net,REJECT
+DOMAIN-KEYWORD,v0-client-lz.rili.cn,REJECT
 # > 招钱进宝
-DOMAIN-keyword,p26-be-pack-sign.pglstatp-toutiao.com,REJECT
+DOMAIN-KEYWORD,p26-be-pack-sign.pglstatp-toutiao.com,REJECT
 # > 真不卡
 DOMAIN-SUFFIX,ttayy.cn,REJECT
 DOMAIN-SUFFIX,zhengxiaoliu.top,REJECT
@@ -1400,15 +1400,15 @@ DOMAIN-SUFFIX,zhengxiaoliu.top,REJECT
 
 
 # >>>>>>>>>>>>>>> ✅ 其他广告 ✅ <<<<<<<<<<<<<<
-DOMAIN-keyword,extlog.snssdk.com,REJECT
-# DOMAIN-keyword,is.snssdk.com,REJECT
-DOMAIN-keyword,mobads.baidu.com,REJECT
-DOMAIN-keyword,s3a.pstatp.com,REJECT
-DOMAIN-keyword,sdfp.snssdk.com,REJECT
-DOMAIN-keyword,tosv.boe.byted.org,REJECT
-DOMAIN-keyword,tosv.byted.org,REJECT
-DOMAIN-keyword,ad.ihuman.com,REJECT
-DOMAIN-keyword,errlog.umeng.com,REJECT
+DOMAIN-KEYWORD,extlog.snssdk.com,REJECT
+# DOMAIN-KEYWORD,is.snssdk.com,REJECT
+DOMAIN-KEYWORD,mobads.baidu.com,REJECT
+DOMAIN-KEYWORD,s3a.pstatp.com,REJECT
+DOMAIN-KEYWORD,sdfp.snssdk.com,REJECT
+DOMAIN-KEYWORD,tosv.boe.byted.org,REJECT
+DOMAIN-KEYWORD,tosv.byted.org,REJECT
+DOMAIN-KEYWORD,ad.ihuman.com,REJECT
+DOMAIN-KEYWORD,errlog.umeng.com,REJECT
 DOMAIN,delivery-node-aziz.voe-network.net,REJECT
 DOMAIN,inspiringaccurate.com,REJECT
 DOMAIN,track.aso1.net,REJECT
@@ -2767,7 +2767,7 @@ DOMAIN-SUFFIX,aff.marathonbet.com,REJECT
 DOMAIN-SUFFIX,aff.svjump.com,REJECT
 DOMAIN-SUFFIX,affil.mupromo.com,REJECT
 DOMAIN-SUFFIX,affiliategroove.com,REJECT
-DOMAIN-SUFFIX,affiliateprogram.keywordspy.com,REJECT
+DOMAIN-SUFFIX,affiliateprogram.KEYWORDspy.com,REJECT
 DOMAIN-SUFFIX,affiliates.allposters.com,REJECT
 DOMAIN-SUFFIX,affiliates.goodvibes.com,REJECT
 DOMAIN-SUFFIX,affiliates.thrixxx.com,REJECT
