@@ -82,7 +82,7 @@ DOMAIN,tracklog.58.com,REJECT
 # >>>>>>>>>>>>>>> ✅ A ✅ <<<<<<<<<<<<<<
 # > 爱奇艺
 DOMAIN, cr-status.iqiyi.com,REJECT
-DOMAIN-suffix, cupid.iqiyi.com,REJECT
+DOMAIN-SUFFIX, cupid.iqiyi.com,REJECT
 DOMAIN, f74f7f7765f8a2f6.ngaa.net.cn,REJECT
 DOMAIN, ef-dongfeng.tanx.com,REJECT
 DOMAIN, iqiyim.adtrack.enlightent.cn,REJECT
@@ -304,7 +304,7 @@ DOMAIN-SUFFIX,hoisin.coocaa.com,REJECT
 DOMAIN-SUFFIX,hoisin.coocaatv.com,REJECT
 DOMAIN,data-hoisin.coocaa.com,REJECT
 # > 车来了（包括小程序）
-DOMAIN-suffix, atrace.chelaile.net.cn,REJECT
+DOMAIN-SUFFIX, atrace.chelaile.net.cn,REJECT
 DOMAIN, logs.chelaile.net.cn,REJECT
 DOMAIN, ad.chelaile.net.cn,REJECT
 
@@ -326,12 +326,12 @@ DOMAIN-keyword,bds.snssdk.com,REJECT
 DOMAIN-keyword,p6-ad-sign.byteimg.com,REJECT
 DOMAIN-keyword,p3.pstatp.com,REJECT
 # > 多多视频
-DOMAIN-suffix, bayescom.com,REJECT
+DOMAIN-SUFFIX, bayescom.com,REJECT
 # > Daum
 DOMAIN,track.tiara.daum.net,REJECT
 DOMAIN,track.tiara.kakao.com,REJECT
 # > 朵朵校友圈 微信小程序去广告
-DOMAIN-suffix, ad.duoduo.link,REJECT
+DOMAIN-SUFFIX, ad.duoduo.link,REJECT
 # > 盯盯拍
 DOMAIN, pglstatp-toutiao.com,REJECT
 
@@ -422,9 +422,9 @@ DOMAIN, business.msstatic.com,REJECT
 # > 哈啰
 DOMAIN-keyword, assets.51downapp.cn,REJECT
 # > 黄油相机 #开屏广告 感谢#Dragon分享
-DOMAIN-suffix, anythinktech.com,REJECT
-DOMAIN-suffix, adkwai.com,REJECT
-DOMAIN-suffix, mob.com,REJECT
+DOMAIN-SUFFIX, anythinktech.com,REJECT
+DOMAIN-SUFFIX, adkwai.com,REJECT
+DOMAIN-SUFFIX, mob.com,REJECT
 
 
 
@@ -471,8 +471,8 @@ DOMAIN,ad.toutiao.com,REJECT
 DOMAIN,dsp.toutiao.com,REJECT
 DOMAIN-keyword,pangolin.snssdk.com,REJECT
 # > 屏蔽京东和搜狗收集信息 @jFrecht
-DOMAIN-suffix, jdqd.jd.com,REJECT
-DOMAIN-suffix, shouji.sougou.com,REJECT
+DOMAIN-SUFFIX, jdqd.jd.com,REJECT
+DOMAIN-SUFFIX, shouji.sougou.com,REJECT
 
 
 
@@ -763,14 +763,14 @@ DOMAIN-SUFFIX,wxsnsdythumb.wxs.qq.com,REJECT
 
 # >>>>>>>>>>>>>>> ✅ T ✅ <<<<<<<<<<<<<<
 # > TubeMax  感谢@可莉分享
-DOMAIN-suffix, adjust.com,REJECT
-DOMAIN-suffix, applvn.com,REJECT
-DOMAIN-suffix, app-measurement.com,REJECT
-DOMAIN-suffix, pangle.io,REJECT
-DOMAIN-suffix, applovin.com,REJECT
-DOMAIN-suffix, appier.net,REJECT
-DOMAIN-suffix, adsmoloco.com,REJECT
-DOMAIN-suffix, adcanvas.com,REJECT
+DOMAIN-SUFFIX, adjust.com,REJECT
+DOMAIN-SUFFIX, applvn.com,REJECT
+DOMAIN-SUFFIX, app-measurement.com,REJECT
+DOMAIN-SUFFIX, pangle.io,REJECT
+DOMAIN-SUFFIX, applovin.com,REJECT
+DOMAIN-SUFFIX, appier.net,REJECT
+DOMAIN-SUFFIX, adsmoloco.com,REJECT
+DOMAIN-SUFFIX, adcanvas.com,REJECT
 
 # > The Paper
 DOMAIN,admonitor.thepaper.cn,REJECT
@@ -923,11 +923,11 @@ DOMAIN,wa.gtimg.com,REJECT
 # DOMAIN,wxsnsdy.wxs.qq.com,REJECT
 # DOMAIN,wxsnsdythumb.wxs.qq.com,REJECT
 # > 腾讯视频
-DOMAIN-suffix, tetrack.qq.com,REJECT
-DOMAIN-suffix, tpns.tencent.com,REJECT
-DOMAIN-suffix, api.poll.video.qq.com,REJECT
-DOMAIN-suffix, static-res.qq.com,REJECT
-DOMAIN-suffix, stat.tpns.tencent.com,REJECT
+DOMAIN-SUFFIX, tetrack.qq.com,REJECT
+DOMAIN-SUFFIX, tpns.tencent.com,REJECT
+DOMAIN-SUFFIX, api.poll.video.qq.com,REJECT
+DOMAIN-SUFFIX, static-res.qq.com,REJECT
+DOMAIN-SUFFIX, stat.tpns.tencent.com,REJECT
 DOMAIN, h.trace.qq.com,REJECT
 DOMAIN-keyword, omgmta.qq.com,REJECT
 DOMAIN-keyword, omgmta1.qq.com,REJECT
@@ -1096,10 +1096,10 @@ DOMAIN-keyword, paradisestatic.vivo.com.cn,REJECT
 
 # >>>>>>>>>>>>>>> ✅ W ✅ <<<<<<<<<<<<<<
 # > 万能钥匙专业版 感谢#All in 梭哈分享
-DOMAIN-suffix, mi.gdt.qq.com,REJECT
-DOMAIN-suffix, p9-be-pack-sign.pglstatp-toutiao.com,REJECT
-DOMAIN-suffix, p6-be-pack-sign.pglstatp-toutiao.com,REJECT
-DOMAIN-suffix, p3-be-pack-sign.pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX, mi.gdt.qq.com,REJECT
+DOMAIN-SUFFIX, p9-be-pack-sign.pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX, p6-be-pack-sign.pglstatp-toutiao.com,REJECT
+DOMAIN-SUFFIX, p3-be-pack-sign.pglstatp-toutiao.com,REJECT
 
 # > 微博
 DOMAIN-KEYWORD,fastimage.uve.weibo.com,REJECT
